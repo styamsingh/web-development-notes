@@ -1,0 +1,5 @@
+.jumbotron {
+  border-radius: 0;
+  background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);
+  background: linear-gradient(to right, #64b3f4, #c2e59c);
+}
